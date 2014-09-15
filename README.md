@@ -1,4 +1,4 @@
-Sonos-Mute
+Sonos-Muter
 ==========
 
 This is just a small utility for people annoyed by Sonos users in the same network. If you have Sonos devices in your network you want to mute, but someone else is starting music again and again, just use this small tool. It will stop playback on all discovered devices every 5 seconds.
@@ -9,8 +9,8 @@ Sonos-Mute requires [node.js](http://nodejs.org) v0.10.x installed to run.
 
 Install latest via source
 ```
-$ git clone https://github.com/dereulenspiegel/sonos-mute.git
-$ cd sonos-mute
+$ git clone https://github.com/dereulenspiegel/sonos-muter.git
+$ cd sonos-muter
 $ npm install -g
 ```
 
